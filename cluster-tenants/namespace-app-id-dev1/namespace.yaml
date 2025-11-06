@@ -4,7 +4,7 @@ metadata:
   name: appid-dev1
   labels:
     environment: dev1
-    team: "xyz team"
+    team: "xyz_team"
     appid: UNIQUEID
   annotations:
     description: "Namespace for UNIQUEID services"
