@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: appid-dev1
+  labels:
+    environment: dev1
+    team: xyz@team.com
+    appid: UNIQUEID
+  annotations:
+    description: "Namespace for UNIQUEID services"
